@@ -16,6 +16,8 @@ A hand-drawn 16-bit multicycle CPU with a custom instruction set.
 
 ## Getting Started
 
+> The design file can be open with [Digital](https://github.com/hneemann/Digital)
+
 Builds are driven by [`just`](https://just.systems/).
 
 ### Prerequisites
